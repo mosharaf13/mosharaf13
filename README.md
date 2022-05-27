@@ -12,3 +12,4 @@ More about me
 - 📫 How to reach me: Drop an [email](mailto:mosharafkuet@gmail.com) or connect with me on social networks
 - 😄 Pronouns: He/Him/His
 
+[Linkedin](https://www.linkedin.com/in/mosharaf13/) | [Facebook](https://www.facebook.com/mosharaf53) | [Instagram](https://www.instagram.com/_mosharaf/)
