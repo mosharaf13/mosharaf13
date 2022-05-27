@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey there, I am Md Mosharaf Hossan 👋
 
-<!--
-**mosharaf13/mosharaf13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer. Well-acquainted with PHP, JavaScript, SQL, HTML/CSS, Laravel, and VueJs. This is the place where I build stuff and break things.
 
-Here are some ideas to get you started:
+More about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently developing a CRM system
+- 🌱 I’m currently learning javascript concepts
+- 👯 I’m looking to collaborate on open source projects
+- 🤔 I’m looking for help with kubernetes
+- 💬 Ask me about object oriented programming and design patterns
+- 📫 How to reach me: Drop an [email](mailto:mosharafkuet@gmail.com) or connect with me on social networks
+- 😄 Pronouns: He/Him/His
+
