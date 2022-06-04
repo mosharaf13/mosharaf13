@@ -6,7 +6,7 @@ More about me
 
 - 🔭 I’m currently developing a CRM system
 - 🌱 I’m currently learning javascript concepts
-- 👯 I’m looking to collaborate on open source projects
+- 👯 I’m looking forward to another hike
 - 🤔 I’m looking for remote/relocation jobs
 - 💬 Ask me about object oriented programming and design patterns
 - 📫 How to reach me: Drop an [email](mailto:mosharafkuet@gmail.com) or connect with me on social networks
