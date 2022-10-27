@@ -13,3 +13,27 @@ More about me
 - 😄 Pronouns: He/Him/His
 
 [Linkedin](https://www.linkedin.com/in/mosharaf13/) | [Facebook](https://www.facebook.com/mosharaf53) | [Instagram](https://www.instagram.com/_mosharaf/)
+
+### :wrench: Tech Stack
+
+<p>
+   <img src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+   <img src="https://img.shields.io/badge/laravel-FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>     
+</p>
+
+<p>
+   <img src="https://img.shields.io/badge/javascript-F6DF1F.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
+   <img src="https://img.shields.io/badge/vue-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>
+</p>
+
+<p>
+   <img src="https://img.shields.io/badge/mysql-3A95CB.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+
+### :octocat: My Github Stats:
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mosharaf13&count_private=true&show_icons=true&theme=algolia&line_height=27"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosharaf13&count_private=true&layout=compact&langs_count=8&theme=algolia"/>
+</div>
