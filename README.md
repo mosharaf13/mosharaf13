@@ -16,10 +16,10 @@ More about me
 
 #### :wrench: Tech Stack
 
-<small>
+<p>
    <img src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
    <img src="https://img.shields.io/badge/laravel-FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>     
-</small>
+</p>
 
 <p>
    <img src="https://img.shields.io/badge/javascript-F6DF1F.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
