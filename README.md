@@ -14,12 +14,12 @@ More about me
 
 [Linkedin](https://www.linkedin.com/in/mosharaf13/) | [Facebook](https://www.facebook.com/mosharaf53) | [Instagram](https://www.instagram.com/_mosharaf/)
 
-### :wrench: Tech Stack
+#### :wrench: Tech Stack
 
-<p>
+<small>
    <img src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
    <img src="https://img.shields.io/badge/laravel-FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>     
-</p>
+</small>
 
 <p>
    <img src="https://img.shields.io/badge/javascript-F6DF1F.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -31,7 +31,7 @@ More about me
 </p>
 
 
-### :octocat: My Github Stats:
+#### :octocat: My Github Stats:
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mosharaf13&count_private=true&show_icons=true&theme=algolia&line_height=27"/>
