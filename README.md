@@ -14,22 +14,14 @@ More about me
 
 [Linkedin](https://www.linkedin.com/in/mosharaf13/) | [Facebook](https://www.facebook.com/mosharaf53) | [Instagram](https://www.instagram.com/_mosharaf/)
 
-#### :wrench: Tech Stack
-
-<p>
-   <img src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-   <img src="https://img.shields.io/badge/laravel-FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>     
-</p>
-
-<p>
-   <img src="https://img.shields.io/badge/javascript-F6DF1F.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
-   <img src="https://img.shields.io/badge/vue-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>
-</p>
-
-<p>
-   <img src="https://img.shields.io/badge/mysql-3A95CB.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2057f7)
+![](https://img.shields.io/badge/Editor-phpstorm-informational?style=flat&logo=jetbrains&logoColor=white&color=2057f7)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2057f7)
+![](https://img.shields.io/badge/Code-php-informational?style=flat&logo=php&logoColor=white&color=2057f7)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2057f7)
+![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=2057f7)
+![](https://img.shields.io/badge/Tools-mySQL-informational?style=flat&logo=mysql&logoColor=white&color=2057f7)
 
 #### :octocat: My Github Stats:
 
