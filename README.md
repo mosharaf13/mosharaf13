@@ -24,4 +24,4 @@ More about me
 ![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=2057f7)
 ![](https://img.shields.io/badge/Tools-mySQL-informational?style=flat&logo=mysql&logoColor=white&color=2057f7)
 ![](https://img.shields.io/badge/Editor-phpstorm-informational?style=flat&logo=jetbrains&logoColor=white&color=2057f7)
-
+![](https://img.shields.io/badge/Editor-vim-informational?style=flat&logo=vim&logoColor=white&color=2057f7)
