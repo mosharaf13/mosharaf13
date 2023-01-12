@@ -15,11 +15,11 @@ More about me
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2057f7)
-![](https://img.shields.io/badge/Editor-phpstorm-informational?style=flat&logo=jetbrains&logoColor=white&color=2057f7)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2057f7)
 ![](https://img.shields.io/badge/Code-php-informational?style=flat&logo=php&logoColor=white&color=2057f7)
+![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=php&logoColor=white&color=2057f7)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2057f7)
 ![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=2057f7)
 ![](https://img.shields.io/badge/Tools-mySQL-informational?style=flat&logo=mysql&logoColor=white&color=2057f7)
-
+![](https://img.shields.io/badge/Editor-phpstorm-informational?style=flat&logo=jetbrains&logoColor=white&color=2057f7)
 
