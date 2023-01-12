@@ -22,9 +22,4 @@ More about me
 ![](https://img.shields.io/badge/Tools-Kafka-informational?style=flat&logo=apache-kafka&logoColor=white&color=2057f7)
 ![](https://img.shields.io/badge/Tools-mySQL-informational?style=flat&logo=mysql&logoColor=white&color=2057f7)
 
-#### :octocat: My Github Stats:
 
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mosharaf13&count_private=true&show_icons=true&theme=algolia&line_height=27"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosharaf13&count_private=true&layout=compact&langs_count=8&theme=algolia"/>
-</div>
