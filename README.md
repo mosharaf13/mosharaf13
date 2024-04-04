@@ -4,8 +4,8 @@ I am a software engineer. Well-acquainted with PHP, JavaScript, SQL, HTML/CSS, L
 
 More about me
 
-- 🔭 I’m currently developing a CRM system
-- 🌱 I’m currently learning javascript concepts
+- 🔭 I’m currently working as a teaching assistant at Idaho State University
+- 🌱 I’m currently learning machine learning and advanced algorithmic concepts
 - 👯 I’m looking forward to another hike
 - 💬 Ask me about object oriented programming and design patterns
 - 📫 How to reach me: Drop an [email](mailto:mosharafkuet@gmail.com) or connect with me on social networks
