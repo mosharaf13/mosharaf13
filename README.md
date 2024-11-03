@@ -1,6 +1,6 @@
 ### Hey there, I am Md Mosharaf Hossan 👋
 
-Well-acquainted with Python, PHP, JavaScript, SQL, HTML/CSS, Laravel, and VueJs. This is the place where I build stuff and break things.
+Well-acquainted with PHP, JavaScript, SQL, HTML/CSS, Laravel, VueJs, and Python. This is the place where I build stuff and break things.
 
 More about me
 
